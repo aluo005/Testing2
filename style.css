@@ -1,0 +1,85 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Rubik', sans-serif;
+}
+
+.header{
+    min-height:100vh;
+    width:100%;
+    background-image:linear-gradient(rgba(55,89,167,0.5), rgba(55,89,167,0.5)), url(studying.jpeg);
+    background-position:center;
+    background-size:cover;
+    position:relative;
+}
+
+nav {
+    display: flex;
+    padding: 4% 8%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links {
+    flex: 1;
+    text-align: right;
+}
+
+.nav-links ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+
+}
+
+.nav-links ul li a {
+    color:beige;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.nav-links ul li::after {
+    content:'';
+    width: 0%;
+    height: 2px;
+    background:crimson;
+    display: block;
+    margin: auto;
+    transition:0.8s;
+}
+
+.nav-links ul li:hover::after {
+    width: 100%;
+}
+
+.text-box {
+    width: 80%;
+    color:beige;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.text-box h1 {
+    font-size: 58px;
+}
+
+.text-box p {
+    margin: 15px 0 50px;
+    font-size: 16px;
+}
+
+button {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    font-size: 16px;
+    background: darkgoldenrod;
+    cursor: pointer;
+    position: relative;
+}

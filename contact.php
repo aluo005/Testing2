@@ -20,9 +20,9 @@
                     </ul>
                 </div>
             </nav>
-            
             <div class="text-box">
                 <h1>Contact Us<h1>
+                
             </div>
 
             <div class="contact-info">

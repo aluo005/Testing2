@@ -26,7 +26,6 @@
             <p>insert text here<br> insert text h ere</p>
             <a href=""><button>Register Now</button></a>
         </div>
-<p>yo whats up</p>
         </section>
 
     </body>

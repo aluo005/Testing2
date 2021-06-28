@@ -22,7 +22,7 @@
             </nav>
         
         <div class="text-box">
-            <h1>Chinese Kid Tutoring Group</h1>
+            <h1>ABOUT PAGE</h1>
             <p>insert text here<br> insert text h ere</p>
             <a href=""><button class="register-button">Register Now</button></a>
         </div>

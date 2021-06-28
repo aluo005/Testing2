@@ -28,7 +28,7 @@
             <div class="contact-info">
                 <ul>
                     <li>
-                        <h2>Name</h2><br><p>email<br>insert wechat id</p>
+                        <h2>NameName</h2><br><p>email<br>insert wechat id</p>
                     </li>
                     <br>
                     <li>

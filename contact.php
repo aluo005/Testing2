@@ -24,7 +24,6 @@
             
             <div class="contact-sign">
                 <h1>Contact Us<h1>
-                
             </div>
 
             <div class="contact-info">

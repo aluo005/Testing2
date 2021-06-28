@@ -20,13 +20,28 @@
                     </ul>
                 </div>
             </nav>
-        
-        <div class="text-box">
-            <h1>CONATACT PAGE</h1>
-            <p>insert text here<br> insert text h ere</p>
-            <a href=""><button class="register-button">Register Now</button></a>
-        </div>
+            
+            <div class="text-box">
+                <h1>Contact Us<h1>
+            </div>
+
+            <div class="contact-info">
+                <ul>
+                    <li>
+                        <h2>Name</h2><br><p>email<br>insert wechat id</p>
+                    </li>
+                    <br>
+                    <li>
+                        <h2>Name</h2><br><p>email<br>insert wechat id</p>
+                    </li>
+                    <br>
+                    <li>
+                        <h2>Name</h2><br><p>email<br>insert wechat id</p>
+                    </li>
+                </ul>
+            </div>
         </section>
+
 
     </body>
 </html>

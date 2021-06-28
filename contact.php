@@ -21,7 +21,7 @@
                 </div>
             </nav>
             
-            <div class="text-box">
+            <div class="contact-sign">
                 <h1>Contact Us<h1>
             </div>
 

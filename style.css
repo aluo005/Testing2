@@ -23,6 +23,7 @@ nav {
 .nav-links {
     flex: 1;
     text-align: right;
+    padding-bottom: 50px;
 }
 
 .nav-links ul li {
@@ -55,9 +56,9 @@ nav {
 
 .text-box {
     width: 80%;
-    color:beige;
+    color: rgb(180, 180, 163);
     position: fixed;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -70,6 +71,13 @@ nav {
 .text-box p {
     margin: 15px 0 50px;
     font-size: 16px;
+}
+
+.container-white{
+    max-width: 960px;
+    background: white;
+    margin: 0 auto;
+    padding: 50px;
 }
 
 .register-button {
